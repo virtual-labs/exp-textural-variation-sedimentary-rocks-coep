@@ -2,37 +2,105 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Detrital rocks refer to which type of sedimentary rocks?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Mechanically formed",
+        "b": "Organically formed",
+        "c": "Chemically formed",
+        "d": "Residual"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation :During the formation of the sedimentary rocks by a mechanical method, original hard and coherent rock bodies are gradually broken down into smaller fragments. This disintegrated, loosened material is called detritus. Hence, clastic rocks are often also called as detrital rocks.",
+        "b": "Explanation ",
+        "c": "Explanation ",
+        "d": "Explanation "
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "The important phenomenon that happens during deposition is ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Settling",
+        "b": "Erosion",
+        "c": "Sorting",
+        "d": "Blowing"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation",
+        "b": "Explanation ",
+        "c": "Explanation :The most important phenomenon that happens to the sediments during their transport and deposition is sorting or grading according to their size, shape and density.",
+        "d": "Explanation "
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+	{
+      "question": "Deposition takes place in which conditions?",
+      "answers": {
+        "a": "Ordinary pressure and temperature",
+        "b": "High temperature and low pressure",
+        "c": "High pressure and low temperature",
+        "d": "High pressure and high temperature"
+      },
+      "explanations": {
+        "a": "Explanation :The sorting or grading occurs during the deposition stage of the formation of sedimentary rocks and the deposition happens in layers in most cases. Deposition generally takes place under ordinary pressure and temperature conditions.",
+        "b": "Explanation ",
+        "c": "Explanation ",
+        "d": "Explanation "
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+	{
+      "question": "The layered arrangement in sedimentary rocks is called ",
+      "answers": {
+        "a": "Mud cracks",
+        "b": "Stratification",
+        "c": "Rain prints",
+        "d": "Ripple marks"
+      },
+      "explanations": {
+        "a": "Explanation ",
+        "b": "Explanation :By stratification is understood a layered arrangement in sedimentary rock. This may be developed very prominently and can be seen from a distance of miles or in other cases may have to be ascertained after close examination of the rock.",
+        "c": "Explanation ",
+        "d": "Explanation "
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+	{
+      "question": "The structure most prevalent to clastic rocks is ",
+      "answers": {
+        "a": "Nodular structure",
+        "b": "Geode structure",
+        "c": "Concretionary structure",
+        "d": "Lamination"
+      },
+      "explanations": {
+        "a": "Explanation ",
+        "b": "Explanation ",
+        "c": "Explanation ",
+        "d": "Explanation :The most prevalent structures of a clastic group of sedimentary rocks are the ones belonging to mechanical structure which are, stratification, lamination, cross beddings, rain prints etc."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+	{
+      "question": "Lamination is structure formed in which type of sedimentary rocks?",
+      "answers": {
+        "a": "Fine grained",
+        "b": "Medium grained",
+        "c": "Coarse grained",
+        "d": "Nothing in particular"
+      },
+      "explanations": {
+        "a": "Explanation :Lamination is a characteristic structure of fine-grained sedimentary rocks like clays and shales",
+        "b": "Explanation ",
+        "c": "Explanation ",
+        "d": "Explanation "
+      },
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
