@@ -1,5 +1,5 @@
 var i=1;
-var maxIndexArr=27;
+var maxIndexArr=2;
 var mineralCount=1;
 let  SampleRandomArr = [];
 function randomIntFromInterval() {
@@ -30,7 +30,7 @@ var htm='<div class="row">'
 			+'<select class="custom-select" id="mineral"  >'
 			+'<option>------ Select sedimentary rocks ------</option>'
 	for(i=0;i<SampleRandomArr.length;i++){
-			htm+='<option  value="'+ SampleRandomArr[i]+'"> sedimentary rock '+ SampleRandomArr[i] +'</option>'
+			htm+='<option  value="'+ SampleRandomArr[i]+'">'+tempMasterJson.demo[i].dummyName +'</option>'
 		}
 		htm+='</select>'			
 			+'</div>'
@@ -48,34 +48,52 @@ var thoery='<div class="container col-sm-12"  id="theory">'
 	+'<b><center>Basics to know about sedimentary rocks</center></b>'
 	+'</div>'
 	+'<div class="card-body">'
-	+'<p><b>What are called rocks?</b><br>'
-	+'Rocks are mineral aggregates with a combination of properties of all the mineral traces.'
-	+' Any unique combination of chemical composition, mineralogy, grain size, texture, or other distinguishing characteristics can describe rock types. '
-	+'Additionally, different classification systems exist for each major type of rock. There are different types of rocks existing in nature.'
+	+'<p><b>TEXTURES AND IDENTIFICATION OF SEDIMENTARY ROCKS</b><br>'
+	+'Sedimentary rocks are rocks formed by deposition from a fluid (i.e., water, air, or ice). '
+	+'They are classified on the basis of their texture, grain size, and mineralogical composition.'
 	+'</p>'
-	+'<p><b>Sedimentary Rock</b><br>'
-	+'The sedimentary rocks are formed by the deposition and subsequent cementation of that material within bodies of water and at the surface of the earth. '
-	+'The process that causes various organic materials and minerals to settle in a place is termed as sedimentation.'
+	+'<p><b>Texture:</b><br>'
+	+'Texture refers to the size, shape and three-dimensional arrangement of the grains that make up sediments or'
+	+'sedimentary rock. Texture is a small-scale character of a rock, but assumes importance in many of its significant'
+	+'properties, such as bulk density, porosity and permeability. We can use texture of sedimentary rocks to infer '
+	+'the mode and distance of transport, energy condition and depositional processes.'
+	+'Textures can be clastic, where they are composed of grains derived from pre-existing rocks '
+	+'or non-clastic, where sediments precipitate from a fluid.' 
+
 	+'</p>'
-	+'<p><b>Different Types of sedimentary rocks</b><br>'
-	+'<ul><li><b>Clastic sedimentary rocks:</b> These rocks are formed from the mechanical weathering debris. Sandstone, siltstone are examples of clastic sedimentary rocks'
-	+'<li><b>Chemical sedimentary rocks:</b> These rocks are formed from the dissolved materials that precipitate from the solution. Iron ore, limestones are examples of chemical sedimentary rocks'
-	+'<li><b>Organic sedimentary rocks:</b> These rocks are formed from the accumulation of plant and animal debris. Coal, some dolomites are examples of organic sedimentary rocks'
-	+'</ul>'
+	+'<p><b>Clastic texture</b><br>'
+	+'Clastic textures are commonly described in terms of grain size of sediments,'
+	+'their sorting behaviour, degree of roundness, packing of grains, textural maturity and grains'
+	+'binding materials like matrix and cement. Texture of clastic sedimentary rocks is produced'
+	+'primarily by physical processes of sedimentation. It is characteristic feature of rocks such'
+	+'as conglomerates, sandstones and shales fragments which are derived from pre-existing rocks – igneous,'
+	+'metamorphic or even pre-existing sedimentary rocks. Some biochemical sedimentary rocks such as '
+	+'fossiliferous limestones (coquina) are composed of shell fragments also exhibit clastic texture.'
+	+'Clastic sedimentary rocks are composed of grains, fragments of pre-existing rocks that have been'
+	+'packed together with spaces (pores) between grains. These pores may later be filled in with cementing '
+	+'materials such as silica or calcite deposited by groundwater moving through the sediment'
 	+'</p>'
-	+'<p><b>Identification based on the various physical properties of sedimentary rocks are as follows </b><br>'
-	+'<ul>'
-	+'<li>Form '
-	+'<li>Colour '
-	+'<li>Streak '
-	+'<li>Luster '
-	+'<li>Fracture '
-	+'<li>Cleavage '
-	+'<li>Hardness '
-	+'<li>Specific Gravity (Density) '
-	+'<li>Degree of Transparency '
-	+'<li>Special Properties'
-	+'</ul></p>'
+	+'<p>Examples of clastic sedimentary rocks are sandstone and conglomerate. Some clastic sedimentary'
+	+'rocks (such as shale and mudstone) are fine enough that the individual grains cannot be distinguished.'
+	+'These fine-grained rocks are said to have an aphanitic texture.'
+
+	+'<p><b>Non clastic (crystalline) texture </b><br>'
+	+'It is formed by chemical or biochemical precipitates from fluids. It may also be produced by '
+	+'recrystallisation or alteration of pre-existing rocks. Grains show an interlocking mosaic of crystals.'
+	+'Chemical sedimentary rocks such as limestone, dolomite, rock salt and gypsum show such texture.'
+	+' Sedimentary rocks may have clastic (detrital) or non-clastic texture.' 
+	+'Non-clastic textures are found chiefly in rocks that have precipitated '
+	+'chemically from water (chemical sedimentary rocks), such as limestone, dolomite and chert.'
+	+'Other non-clastic sedimentary rocks include those formed by organisms (biochemical rocks), '
+	+'and those formed from organic material, such as coal.'
+	+'Rocks formed mainly from shell fragments are technically clastic rocks, but are commonly'
+	+'classed with the non-clastic ones because they too are chemical precipitates -'
+	+'except that organisms did the precipitating. If non-clastic rocks are fine-grained enough, they too can be called aphanitic.'
+	+'Clastic sedimentary rocks are subdivided on the basis of grain size. Secondary characteristics used to further distinguish'
+	+'clastic rocks are sorting, grain shape, and grain composition.'
+
+
+	+'</p>'
 	+'</div>'
 	+'</div>'
 	+'</div>'
@@ -122,13 +140,13 @@ function mineralSelect(){
 					 	previewPanel();
 					 	text+='</div>'
 						+'<br>'
-					 	+'<strong><b>what is the name of above sedimentary rocks?</b></strong>'
+					 	+'<strong><b>Which texture is ?</b></strong>'
 					 	+'<br>'
 					 	+'<br>'
 					 	+'<select class="custom-select" id="originalName"  >'
-					 	+'<option  value="">------ Select original name of sedimentary rocks ------</option>'
+					 	+'<option  value="">------ Select texture name  ------</option>'
 				for(i=0;i<tempMasterJson.demo.length;i++){	
-					text+='<option  value="'+tempMasterJson.demo[i].mineralId+'">'+tempMasterJson.demo[i].originalName +'</option>'
+					text+='<option  value="'+tempMasterJson.demo[i].mineralId+'">'+tempMasterJson.demo[i].textureName +'</option>'
 				}
 			 	text+='</select>'
 				 	+'<br>'
@@ -218,13 +236,13 @@ function mineralSelect(){
 			$("#mineral").attr("disabled", true);
 			for(i=0;i<tempMasterJson.demo.length;i++){
 					var mineral=$('#mineral :selected').val();
-					var originalName=$('#originalName :selected').val();
-						 	if(mineral==originalName){
+					var originalName=$('#originalName :selected').text();
+						 	if(tempMasterJson.demo[copyMineralid].textureName==originalName){
 						 		$('#info_div').html("");
 
 						 		var text='<div class="container col-lg-5  col-sm-12" >'
 						 				+'<div class="heading_div">'
-						 				+'<b><center>'+tempMasterJson.demo[copyMineralid].originalName+'</center></b>'
+						 				+'<b><center>'+tempMasterJson.demo[copyMineralid].textureName+'</center></b>'
 						 				+'</div>'
 						 				+'<div class="row " >'
 						 				
@@ -282,9 +300,9 @@ function mineralSelect(){
 				 						}
 				 				text+='</div></div></b>'
 				 					}
-						 		text+='<br><button type="button" class="btn btn-success "   id="smt" data-toggle="modal" data-target="#myModal"  >Submit</button></div>'
+						 		text+='<br><button type="button" class="btn btn-success "   id="smt" data-toggle="modal" >Submit</button></div>'
 						 		+'</div>'
-						 		
+						 	// add model data-target="#myModal"
 						 		
 						 		$('#info_div').html(text);	
 						 		
@@ -357,7 +375,7 @@ function smtQuestion(){
 	  		+'<strong id="notSelected">Skipped Question : '+notSelected+' </strong><br>'
 		  	+'</div>'
 			
-			$("#modalHeading").html("Selected sedimentary rocks : " + tempMasterJson.demo[copyMineralid].originalName);
+			$("#modalHeading").html("Selected sedimentary rocks : " + tempMasterJson.demo[copyMineralid].textureName);
 		AddResult='<p class="properties"></p>'
 				  +'<p class="properties"><b>Chemical classification :</b> '+tempMasterJson.demo[copyMineralid].chemical_Classification+'</p>'
 				  +'<p class="properties"><b>Colour :</b> '+tempMasterJson.demo[copyMineralid].colour+'</p>'
