@@ -1,119 +1,94 @@
+### INTRODUCTION
+Sedimentary rocks are rocks formed by deposition from a fluid (i.e., water, air, or ice). They are classified on the basis of their texture, grain size, and mineralogical composition.
+### Texture:
+Texture refers to the size, shape and three-dimensional arrangement of the grains that make up sediments or sedimentary rock. Texture is a small-scale character of a rock, but assumes importance in many of its significant properties, such as bulk density, porosity and permeability. We can use texture of sedimentary rocks to infer the mode and distance of transport, energy condition and depositional processes.
+Textures can be clastic, where they are composed of grains derived from pre-existing rocks or non-clastic, where sediments precipitate from a fluid. 
+### Clastic texture:
+Clastic textures are commonly described in terms of grain size of sediments, their sorting behaviour, degree of roundness, packing of grains, textural maturity and grains binding materials like matrix and cement. Texture of clastic sedimentary rocks is produced primarily by physical processes of sedimentation. It is characteristic feature of rocks such as conglomerates, sandstones and shales fragments which are derived from pre-existing rocks – igneous, metamorphic or even pre-existing sedimentary rocks. Some biochemical sedimentary rocks such as fossiliferous limestones (coquina) are composed of shell fragments also exhibit clastic texture. Clastic sedimentary rocks are composed of grains, fragments of pre-existing rocks that have been packed together with spaces (pores) between grains. These pores may later be filled in with cementing materials such as silica or calcite deposited by groundwater moving through the sediment. 
+Examples of clastic sedimentary rocks are sandstone and conglomerate. Some clastic sedimentary rocks (such as shale and mudstone) are fine enough that the individual grains cannot be distinguished.
+These fine-grained rocks are said to have an aphanitic texture.
+ ### Non clastic (crystalline) texture:
+ It is formed by chemical or biochemical precipitates from fluids. It may also be produced by recrystallisation or alteration of pre-existing rocks. Grains show an interlocking mosaic of crystals. Chemical sedimentary rocks such as limestone, dolomite, rock salt and gypsum show such texture.
+ Sedimentary rocks may have clastic (detrital) or non-clastic texture. 
+Non-clastic textures are found chiefly in rocks that have precipitated chemically from water (chemical sedimentary rocks), such as limestone, dolomite and chert. Other non-clastic sedimentary rocks include those formed by organisms (biochemical rocks), and those formed from organic material, such as coal. 
+Rocks formed mainly from shell fragments are technically clastic rocks, but are commonly classed with the non-clastic ones because they too are chemical precipitates - except that organisms did the precipitating. If non-clastic rocks are fine-grained enough, they too can be called aphanitic.
+Clastic sedimentary rocks are subdivided on the basis of grain size. Secondary characteristics used to further distinguish clastic rocks are sorting, grain shape, and grain composition.
+![figures showing primary*************************************************](images/figures showing primary.jpg)
+Grain size:
+Clastic sediments are distinguished on the basis of average grain size.
+gravel-size particles are larger than 2 mm diameter
+sand-size particles range in diameter from 1/16 to 2 mm (they feel like sandpaper)
+silt-size particles have diameters from 1/256 to 1/16 mm (they feel finely gritty)
+clay-size particles are smaller than 1/256 mm in diameter (they feel smooth)
+Roundness and Sorting:
+Roundness is an important characteristics of the texture of clastic sedimentary rocks. Roundness is indicates the extent to which the corners of individual grains have been rounded off. The roundness scale runs from angular through subangular to subrounded and well-rounded. All other things being equal, the rounder a grain is, the greater distance it has been transported, or the more it has been agitated against other grains.
+Sorting is the extent to which the grains making up a clastic rock are all about the same size.
+ A well-sorted sedimentary rock consists of grains which are all in the same size range (such as a sandstone that's mostly sand size grains with very little silt or clay mixed in.) 
 
-# INTRODUCTION
-- The rocks formed from sediments are called as ‘Sedimentary rocks’.
-- The total amount of sedimentary rocks that exist in upper 16 km of earth’s crust is estimated to be only about 5%.
-- These rocks are found chiefly as an extensive cover over continents.
-- In sedimentary petrology, study of sedimentary / secondary rocks with reference to mineral and chemical composition, 
+A poorly-sorted sedimentary rock will contain a large range of sizes; in particular, poorly-sorted rocks will have a lot of silt and clay-size particles in among the coarser grains. 
+Sorting reflects the extent to which the processes transporting or depositing the sediment have been able to separate the different sizes and carry away finer particles.
+A sediment or sedimentary rock is said to be well-sorted if all clasts are of similar size and poorly-sorted if it contains a wide variety of different sized grains, especially if it contains fines in among coarser grains.
 
-megascopic and microscopic properties, genesis is carried out.
-The rocks formed by the deposition of products of rocks weathering i.e. sediments are called as sedimentary rocks. Sedimentary rocks include rocks formed by accumulation of chemically precipitated or organically derived materials. Sedimentary rocks occur in layer and frequently contain fossils.
-### Rock Weathering :
-- Weathering is defined as the total effect of various subaerial processes that bring about decay and disintegration of rocks exposed on the surface of the earth. Weathering is related to the surface of the lithosphere where rocks, air and water come together. 
-- Denudation is the wearing down of rocks of the earth’s crust. This is accomplished in three stages. In the first stage the long and continuous exposure of rocks to weather elements (temperature, pressure and moisture) lead to their disintegration and decomposition. 
-- In the second stage, the products of disintegration and decomposition are removed by agents of transportation such as flowing rivers, wind, gravity, solution and moving ice. 
-- The third stage involves the deposition of the transported weathered products in a depression or basin, which later form sedimentary rocks.
+|Name of Particle |Size Range |Loose Sediment |Consolidated Rock |
+|---|---|--|--|
+|Boulder|>256mm | Gravel |Conglomerate or Breccia(depends on rounding) |
+|Cobble|64-256mm | Gravel |Conglomerate or Breccia(depends on rounding) |
+|Pebble|2<64mm | Gravel |Conglomerate or Breccia(depends on rounding) |
+|Sand|1/16-2mm | Sand |Sandstone |
+|Silt|1/256-1/16mm | Silt |Siltstone |
+|Clay|1<256mm | Clay |Claystone,mudstone and shale |
+Textures are said to be primary, where the detrital grains possess their arrangement that existed after they came to rest in the basin of deposition or after precipitation (in the case of crystallines). Secondary textures are produced due to the alteration in the original arrangements of grains. Grains are rearranged due to the weight of overlying sediments causing compaction during lithification.
+### Textures are controlled by the following factors: 
+-  The nature and type of the source rocks or provenance. It can be igneous, sedimentary, and metamorphic;
+- Texture and composition of pre-existing or source rock; 
+- Mode of weathering which can be physical, chemical and biological; 
+- Mode, energy and nature of medium and distance of transportation; 
+- Depositional processes; 
+- Diagenesis of sediments; and • Tectonics of depositional sites.
+### Mineralogy: 
+The most common materials in sedimentary rocks: less common sedimentary minerals quartz gypsum feldspar halite clay hematite calcite limonite dolomite rock fragments Small amounts of amphibole, pyroxene, and mica may also be found in some sedimentary rocks
+coarsegrained
+![coarsegrained*************************************************](images/coarsegrained.jpg)
 
-##### The geological work accomplished by weathering is of two types.
-- Physical Weathering.
-- Chemical Weathering.
 
-Physical Weathering : Physical or mechanical weathering which leads the rock to disintegrate by the action of temperatures changes,  frost action, and work of organisms.
-Disintegration : It is the mechanical breaking up of rocks. It aids decomposition which is the chemical alteration of rock materials. Sometimes the chemical changes become entirely responsible for the mechanical break down of the rocks.
+|The most Common materials in sedimentary rocks|less common sedimentary minerals|
+|--|--|
+| quartz|gypsum|
+| feldspar|halite|
+| clay|hematite |
+| calcite|limonite|
+|dolomite| |
+|rock fragments| |
+Small amounts of amphibole, pyroxene, and mica may also be found in some sedimentary rocks.
+### Classification of sedimentary rocks:
+A very workable classification of sedimentary rocks is given in the accompanying handout. Brief descriptions of some of the important sedimentary rocks are given below.
+Conglomerate is made of rounded gravel particles in a sand or finer-grained matrix; breccia is simply a conglomerate composed of angular, rather than rounded, particles.
+Sandstone is composed dominantly of sand-size particles. Well-sorted sandstones contain little or no silt and clay;poorly-sorted sandstones have considerable silt and clay in the spaces between the sand grains.
+ Greywacke sandstone is a medium to dark grey, fairly dense, poorly-sorted sandstone typical of submarine trenches.
+Siltstone is composed chiefly of silt-size particles (usually quartz). Broken surfaces feel gritty. If you can scrape off some of it and wet it, it will feel finely gritty between your fingers or in your mouth.
+Shale consists of finely laminated (thinly layered) clay-sized particles. If this fine-grained material lacks layers, it is called mudstone or claystone. These rocks are smooth to the touch. Shales and mudstones commonly contain siltsize particles as well as clay.
+Limestones consist almost entirely of calcite. Chalk consists of minute (microscopic or sub-microscopic) silt-size
+shells; it has a gritty feel. Coquina is made up almost entirely of large shell fragments. Some limestones are very fine-grained (aphanitic) and are formed of limy mud.
+Chert is a hard, aphanitic, non-clastic rock composed entirely of microcrystalline quartz. Diatomite is a very fine, light-weight chalky white rock formed from the silica shells of diatoms (microscopic one-celled plants). Diatomite has a smooth, powdery feel.
+Coal is formed from heating and compression of peat––vegetative material that accumulates in bogs and swamps.
+(Strictly speaking, coal is metamorphosed peat; but it is usually grouped with sedimentary rocks.)
 
-The following factors contribute to disintegration:
-- **Frost action** -  Extreme diurnal or seasonal changes leads to alternate heating and cooling in exposed rocks. This leads to development of cracks  resulting from continuous expansion and contraction through length of time. The water on entering these cracks, crevices, joints, bedding planes  and fissures, freeze and thaw alternately. At high altitudes the temperature rises above 55 degrees Celsius and falls below freezing point at night. This leads to rock fracturing in areas without snow cover. The fractured angular blocks get dislodged and move downslope and accumulate at lower levels forming Scree.  They are not permanent as they are removed by landslides, glacier transport and avalanches.
+### Structure of Sedimentary Rocks
 
-- **Temperature changes**  - In regions where extreme climates prevail, such as in dry  deserts of arid and semi arid  climatic regions, the high heat during the day heats the rocks to very high temperatures and at nights they are cooled to very low temperatures. Only the outer layers of the rocks are affected because rocks are poor conductors of heat. 	Thus the outer thin layers peel off as curved shells during weathering. Exfoliation is the phenomenon   in which  the outer layers of the rock separate into thin curved layers leaving behind a rounded mass of rock or residual boulders. Weathering of this type is called spheroidal weathering and is normally seen to occur in massive granite rock bodies. The weathering is initiated from the corners, sides and edges of these rocks till they are worn out. 
+Any variety of large-scale features are produced in sedimentary rocks by sedimentary processes are called the sedimentary structure. The principal types of sedimentary structures are as follows:
+- Primary Sedimentary structure: Formed at time of deposition. E.g. Bedding.
+- Secondary sedimentary structure: Formed after the time of deposition. E.g. Nodules
+- Organic sedimentary structure: Developed due to action of organisms. E.g. Stromatolite, Track & Trails etc.
 
-- **Gravity**  The downward slow movement of the weathered products from  mountain slopes with slope angles greater than 45 &deg; or the fall of  fragments from steep mountain valleys and cliffs is due to the action of  gravity. These fragments on accumulation at the mountain base are called  Talus ( refer Fig. below). The Talus is identified on the field by measuring the angle between the accumulation at rest and the horizontal. The angle varies between 25 to 30 &deg;
+![sediStructure1*************************************************](images/sediStructure1.jpg)
 
-![talusscree*******************************************************************************](images/talusscree.jpg) 
+![sediStructure2*************************************************](images/sediStructure2.jpg)
 
-- **Work of plants and animals** -
-    Burrowing animals, worms and growing rootlets of plants enlarge the cracks and crevices which loosen the material, for removal by geological agents of weathering. Fungi and lichen  aid in chemical weathering as they extract material from the rock on which they form. Bacteria present in water acts on rock mineral matter and soils. The decomposition of dead organisms and plants is accelerated by the microbial activity of micro organisms present in the soil leading to the formation of Humus. The humus complex releases humic acid in the soil and enhances the decomposition of the decayed animal and vegetal matter.
-- **Chemical Weathering** -
-Chemical changes in which the minerals are decomposed, dissolved and loosened by water, oxygen, carbon di oxide of the atmosphere and decaying organisms.
-- **Decomposition** -
-It is the breaking down of the mineral into soluble compounds and removed in solution. This weakens the rocks and makes it susceptible to the action  of other agents of weathering. Thus the rocks are disintegrated because of  the removal of the adhesion between minerals. The soluble compounds on  removal leave the rocks porous disintegrating it rapidly. Alteration  products occupy a greater volume than the original matter. 
-The following factors contribute to decomposition :
-- **Solution :** This is well observed in limestone terrain, where they are readily attacked and the carbonate is converted to bicarbonate. This is readily soluble in and carried away in solution. Impurities in the limestone rocks that remain undissolved are left behind in the soil. 
+![sediStructure3*************************************************](images/sediStructure3.jpg)
 
-**CaCO~3~+H~2~O+CO~2~ = Ca(HCO~3~)~2~**
+![sediStructure4*************************************************](images/sediStructure4.jpg)
+### Images of Non clastic (crystalline) texture:
 
-When the rainwater with dissolved carbon di oxide  enters the cracks and crevices of non carbonate rocks attacks them and dissolves the carbonates leaving behind others minerals which accumulate to form components of soil.	
+![sediStructure11*************************************************](images/sediStructure11.jpg)
 
-- **Oxidation :** It is the dissolved oxygen in water that acts as agents of chemical weathering. Soil colour in tropical regions are yellow, red and brown. This is because the iron minerals and their silicates (olivines, pyroxenes and amphiboles) in the rocks are attacked converting ferrous ion to ferric ion eg Hematite. The ferrous ion when converted to its hydroxides such as limonite and Goethite show a range of colours varying from greenish black to yellow and brown.
-- **Hydration:** Hydrous oxides and hydrous silicates result from the addition of water during chemical weathering. Alkali and Plagioclase  feldspars release the excess potassium and silica at the same time and the aluminium is converted to kaolin (constituent mineral in clay). Zeolite, Talc Chlorite and serpentine are examples of hydrous silicates
-**2KAlSi~3~O~8~+2H~2~O+CO~2~ = Al~2~SiO~5~(OH)~4~+4SiO~2~K~2~CO~3~**
-
-- **Carbonation:** Surface waters contain dissolved carbon di-oxide from the atmosphere. The carbonated water becomes an active agent of in the process of decomposition. The carbonated water reacts readily with rocks containing oxides of metals such as calcium, magnesium, sodium and potassium to  form their  carbonates and  bicarbonates. From solutions containing
-**Fe(HCO~3~)~2~** ,Limonite is precipitated. Reaction of potash feldspar with carbonic acid is shown below.
-**2KAlSi~3~O~8~+2H~2~CO~3~+H~2~O=Al~2~Si~2~O~5~(OH)~4~+2KHCO~3~+4SiO~2~**
-
-Classification of Sedimentary Rock :	The sediments, from which sedimentary rocks are formed, may be divided into two major groups.
-
-#### Classification of Sedimentary Rock :	The sediments, from which sedimentary rocks are formed, may be divided into two major groups.
-
-![classification*******************************************************************************](images/classification.jpg) 
-**Clastic Sediments :**
-- Clastic sediments are broken fragments of preexisting rocks ranging in size from minute clay particles to very large boulders.
-- Clastic rocks are formed by mechanical accumulation of grains of clastic sediments.
-- Depending upon size of constituent grains, the clastic rocks are classified as:
-    - Rudaceous rocks
-    - Arenaceous rocks
-    - Argillaceous rocks
-    
--	**Rudaceous rocks :**
-•	These rocks are formed by accumulation of bigger rock fragments such as gravels, pebbles and boulders. If grains are rounded, rock is called as “Conglomerate”. If they are angular then these rocks are called as ‘Breccia’. 
--	**Arenaceous rocks :**
-•	These rocks are composed almost entirely of sand grains. When individual grains are rounded then the rock is called as “Sandstone” and “Grit” if the grains are angular.
--	**Argillaceous rocks :**
-•	These rocks are made up of very fine-grained sediments. “Shale” and “mudstone” are typical argillaceous rocks, which are composed of clay-sized sediments.
-
-#### 1.6.2.2	Non-Clastic Sediments :	Non-clastic rocks include those sedimentary rocks, which are formed by chemical precipitation of minerals from water or by accumulation of remains of animals and plants.
-They are classified into two groups:
-- Residual deposits
-- Chemically formed rocks
-- Organically formed rocks
-
-**(a)	Residual Sedimentary Deposits :** 
--   Formation of laterite :
-    - Laterite formations occurs only under tropical climates. The typical climate is characterized by strongly alternating dry and wet conditions. 
-    - Under normal conditions of weathering i.e. in humid and temperate climate, silicates decompose; under strongly oxidizing tropical weathering, iron is ultimately converted into insoluble ferric oxides and ferric hydrates which are not transported but precipitated. 
-    - Thus, under a tropical climate, weathering leads to laterite formation which is mainly composed of hydroxide of aluminium and hydrated ferric oxide.
-- Formation of Bauxite :
-Like laterite, bauxite is formed under tropical weathering, from different rocks. Such weathering results in leaching of all soluble matter, leaving behind enriched residues of oxides and hydroxides of aluminium, ferric iron, manganese, titanium and free silica. Alumina rich i.e. feldspar rich rocks are more suitable for bauxite formation.
-
-**(b) Chemically formed rocks :**
-- These rocks are formed when minerals matter in solution is precipitated from water, usually because of changes in water temperature or chemical content of water.
-On basis of composition, chemically formed rocks are classified as follows:
-<br>**(i)Carbonate Rocks :**
-Limestone’s and Dolomites are most abundant carbonate rocks. They are formed by chemical precipitation of calcium carbonate from seawater.
-<br>**(ii)	Salt Rocks :**
-Evaporation is major process involved in deposition of chemical precipitates. The salt deposits formed by evaporation of saline lakes are called ‘evaporites’.
-The principal minerals of these deposits are chlorides and sulphates of Na, K, Mg and Ca.They commonly form massive beds.
-<br>**(iii)	Ferruginous Rocks :**
-The rocks, which are formed by chemical precipitation of iron oxides.
-Iron-stone is an e.g. of ferruginous Rocks.
-<br>**(iv)	Siliceous Deposits :**
-Siliceous rocks are formed when silica is precipitated from water.
-e.g. Flint, Chert, Jasper and Agate.
-
-**( c)Organically formed Sedimentary rocks :**
-These rocks are composed mainly of remains of animals or plants.Organically formed rocks are subdivided into two groups:
-
-These rocks are composed mainly of remains of animals or plants.
-Organically formed rocks are subdivided into two groups:
-    - (i)	Biochemical rocks.	
-    - (ii)	Organic rocks.
-
-**(i)Biochemical Rocks :**
-The biochemical sediment is produced when plants and animals living under water, extract from it dissolved mineral matter usually calcite to form shells or other hard parts. These shells accumulate on ocean floor in great quantities to form sedimentary rocks. e.g. Shale, Limestone.
-
-**(ii)Organic Rocks :**
-Rocks containing organic matter belong to this group. e.g. Coal.
-
-**Grain Size Classification :**
-The sedimentary rocks can also be classified on the basis of the size of the sediments of which the rock is formed of. Mainly the sediments are classified as shown below-
-
-![grainsize*******************************************************************************](images/grainsize.jpg)
+![sediStructure22*************************************************](images/sediStructure22.jpg)
