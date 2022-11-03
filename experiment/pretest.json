@@ -1,39 +1,107 @@
+
 {
-  "version": 2.0,
-  "questions": [
-    {
-      "question": "This is a Sample Question 1?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    }
-  ]
+	"version": 2.0,
+	"questions": [{
+			"question": "Which rock is also called secondary rock?",
+			"answers": {
+				"a": "Igneous rock",
+				"b": "Sedimentary rock",
+				"c": "Metamorphic rock",
+				"d": "No class of rock is termed so"
+			},
+			"explanations": {
+				"a": "Explanation ",
+				"b": "Explanation :Sedimentary rocks are also called secondary rocks. This group includes a wide variety of rocks formed by accumulation, compaction and consolidation of sediments.",
+				"c": "Explanation ",
+				"d": "Explanation "
+			},
+			"correctAnswer": "b",
+			"difficulty": "beginner"
+		},
+		{
+			"question": "Which is the rock present in the majority on the surface of earth?",
+			"answers": {
+				"a": "Igneous rock",
+				"b": "Sedimentary rock",
+				"c": "Metamorphic rock",
+				"d": "No class of rock in particular"
+			},
+			"explanations": {
+				"a": "Explanation ",
+				"b": "Explanation :Sedimentary rocks are known to cover as much as 75 percent of the surface of the earth the rest being covered by the igneous rocks and the metamorphic rocks.",
+				"c": "Explanation ",
+				"d": "Explanation "
+			},
+			"correctAnswer": "b",
+			"difficulty": "beginner"
+		},
+		{
+			"question": "What are the mechanically formed sedimentary rocks also called?",
+			"answers": {
+				"a": "Clastic rocks",
+				"b": "Non-clastic rocks",
+				"c": "Elite rocks",
+				"d": "Mech rocks"
+			},
+			"explanations": {
+				"a": "Explanation :Sedimentary rocks are known to cover as much as 75 percent of the surface of the earth the rest being covered by the igneous rocks and the metamorphic rocks.",
+				"b": "Explanation ",
+				"c": "Explanation ",
+				"d": "Explanation "
+			},
+			"correctAnswer": "a",
+			"difficulty": "beginner"
+		},
+		{
+			"question": "Rock salt may be formed by",
+			"answers": {
+				"a": "Erosion",
+				"b": "Winds",
+				"c": "Continued evaporation",
+				"d": "Continued precipitation"
+			},
+			"explanations": {
+				"a": "Explanation ",
+				"b": "Explanation :Limestone may be formed by precipitation from carbonated water due to loss of carbon dioxide. Rock salt may be formed from sodium-chloride rich seawater merely by the process of continued evaporation.",
+				"c": "Explanation ",
+				"d": "Explanation "
+			},
+			"correctAnswer": "b",
+			"difficulty": "beginner"
+		},
+		{
+			"question": "Example of chemically formed sedimentary rocks is ",
+			"answers": {
+				"a": "Gypsum",
+				"b": "Sandstone",
+				"c": "Shale",
+				"d": "Breccia"
+			},
+			"explanations": {
+				"a": "Explanation :Chemically formed rocks are of two types: precipitates and evaporites. Examples are limestones, rock salt, gypsum and anhydrite. ",
+				"b": "Explanation ",
+				"c": "Explanation ",
+				"d": "Explanation "
+			},
+			"correctAnswer": "a",
+			"difficulty": "beginner"
+		},
+		{
+			"question": "Pick the organically formed sedimentary rock",
+			"answers": {
+				"a": "Shale",
+				"b": "Sandstone",
+				"c": "Shale",
+				"d": "Breccia"
+			},
+			"explanations": {
+				"a": "Explanation ",
+				"b": "Explanation ",
+				"c": "Explanation ",
+				"d": "Explanation :Limestones are the best examples of organically formed sedimentary rocks. Generally, the evidence of the source material gets obliterated from these rocks with the passage of time."
+			},
+			"correctAnswer": "d",
+			"difficulty": "beginner"
+		}
+	]
 }
