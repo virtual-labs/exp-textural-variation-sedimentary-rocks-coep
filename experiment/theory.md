@@ -12,9 +12,9 @@ These fine-grained rocks are said to have an aphanitic texture.
  Sedimentary rocks may have clastic (detrital) or non-clastic texture. 
 Non-clastic textures are found chiefly in rocks that have precipitated chemically from water (chemical sedimentary rocks), such as limestone, dolomite and chert. Other non-clastic sedimentary rocks include those formed by organisms (biochemical rocks), and those formed from organic material, such as coal. 
 Rocks formed mainly from shell fragments are technically clastic rocks, but are commonly classed with the non-clastic ones because they too are chemical precipitates - except that organisms did the precipitating. If non-clastic rocks are fine-grained enough, they too can be called aphanitic.
-Clastic sedimentary rocks are subdivided on the basis of grain size. Secondary characteristics used to further distinguish clastic rocks are sorting, grain shape, and grain composition.
+Clastic sedimentary rocks are subdivided on the basis of grain size. Secondary characteristics used to further distinguish clastic rocks are sorting, grain shape, and grain composition.<br>
 ![figures showing primary*************************************************](images/figures_showing_primary.jpg)
-Grain size:
+<br>Grain size:
 Clastic sediments are distinguished on the basis of average grain size.
 gravel-size particles are larger than 2 mm diameter
 sand-size particles range in diameter from 1/16 to 2 mm (they feel like sandpaper)
