@@ -75,7 +75,7 @@ Shale consists of finely laminated (thinly layered) clay-sized particles. If thi
 Limestones consist almost entirely of calcite. Chalk consists of minute (microscopic or sub-microscopic) silt-size
 shells; it has a gritty feel. Coquina is made up almost entirely of large shell fragments. Some limestones are very fine-grained (aphanitic) and are formed of limy mud.
 Chert is a hard, aphanitic, non-clastic rock composed entirely of microcrystalline quartz. Diatomite is a very fine, light-weight chalky white rock formed from the silica shells of diatoms (microscopic one-celled plants). Diatomite has a smooth, powdery feel.
-Coal is formed from heating and compression of peat––vegetative material that accumulates in bogs and swamps.
+Coal is formed from heating and compression of peat–vegetative material that accumulates in bogs and swamps.
 (Strictly speaking, coal is metamorphosed peat; but it is usually grouped with sedimentary rocks.)
 
 ### Structure of Sedimentary Rocks
