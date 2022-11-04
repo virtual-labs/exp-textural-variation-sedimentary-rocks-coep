@@ -4,10 +4,10 @@ var mineralCount=1;
 let  SampleRandomArr = [];
 function randomIntFromInterval() {
 	do {
-//		let num = Math.floor(Math.random() * 26 + 1);
-//		SampleRandomArr.push(num);
-		SampleRandomArr.push(i);
-	  	i++;
+		let num = Math.floor(Math.random() * 2 + 1);
+		SampleRandomArr.push(num);
+//		SampleRandomArr.push(i);
+//	  	i++;
 		SampleRandomArr = SampleRandomArr.filter((item, index) => {
 			return SampleRandomArr.indexOf(item) === index;
 		});
@@ -24,11 +24,11 @@ var htm='<div class="row">'
 			+'<div class="col-sm-1">'
 			+'</div>'
 			+'<div class="col-sm-2">'
-			+'<strong><span style="float:right;">Select Sedimentary rocks</span></strong>'
+			+'<strong><span style="float:right;">Select Sedimentary texture</span></strong>'
 			+'</div>'
 			+'<div class="col-sm-7">'
 			+'<select class="custom-select" id="mineral"  >'
-			+'<option>------ Select sedimentary rocks ------</option>'
+			+'<option>------ Select sedimentary texture ------</option>'
 	for(i=0;i<SampleRandomArr.length;i++){
 			htm+='<option  value="'+ SampleRandomArr[i]+'">'+tempMasterJson.demo[i].dummyName +'</option>'
 		}
@@ -43,9 +43,9 @@ var htm='<div class="row">'
 // $("#main-div").html(htm);
 var thoery='<div class="container col-sm-12"  id="theory">'
 	+'<div class="card ">'
-	+'<center><p class="blink"> Select sedimentary rocks to start the simulation!!! </p></center>'
+	+'<center><p class="blink"> Select sedimentary texture to start the simulation!!! </p></center>'
 	+'<div class="card-header heading_div">'
-	+'<b><center>Basics to know about sedimentary rocks</center></b>'
+	+'<b><center>Basics to know about sedimentary texture</center></b>'
 	+'</div>'
 	+'<div class="card-body">'
 	+'<p><b>TEXTURES AND IDENTIFICATION OF SEDIMENTARY ROCKS</b><br>'
@@ -266,7 +266,7 @@ function mineralSelect(){
 						 				
 						 			  	+'<div class="container col-lg-6 col-sm-12  ">'
 						 				+'<div class="container heading_div">'
-						 				+'<b><center>IDENTIFICATIONS OF SEDIMENTARY ROCKS </center></b>'
+						 				+'<b><center>IDENTIFICATIONS OF SEDIMENTARY TEXTURE </center></b>'
 						 				+'</div>'
 						 			
 						 				+'<div class="container col-lg-12 col-sm-12" style=" height: 700px; overflow-y: scroll;margin:10px;">'
@@ -300,7 +300,7 @@ function mineralSelect(){
 				 						}
 				 				text+='</div></div></b>'
 				 					}
-						 		text+='<br><button type="button" class="btn btn-success "   id="smt" data-toggle="modal" >Submit</button></div>'
+						 		text+='<br><button type="button" class="btn btn-success "   id="smt" data-toggle="modal" data-target="#myModal">Submit</button></div>'
 						 		+'</div>'
 						 	// add model data-target="#myModal"
 						 		
@@ -313,7 +313,7 @@ function mineralSelect(){
 						 	else
 						 		{
 						 	    var str1='<div class="alert alert-success">'
-						 	    	+'<strong>Select correct original name of sedimentary rocks name.  </strong>'
+						 	    	+'<strong>Select correct original name of sedimentary texture  </strong>'
 			 			  	+'</div>'
 						 	    	$("#error").html(str1);
 						 	}
@@ -331,7 +331,7 @@ function smtQuestion(){
 	var wrongAnsCount=0;
 	var notSelected=0;
 	
-	$("#helpTip").html("You need to perform the task for all the available sedimentary rocks to complete the experiment. Find \"Click here to select next sedimentary rocks\" button to continue.");
+	$("#helpTip").html("You need to perform the task for all the available sedimentary texture to complete the experiment. Find \"Click here to select next sedimentary texture\" button to continue.");
 	$("#helpTip").addClass("blink");
 	
 	var questionLength=tempMasterJson.demo[copyMineralid].question.length;
@@ -369,24 +369,14 @@ function smtQuestion(){
 		$('#mineral :selected').attr('disabled', true);
 		var answerPanel,AddResult;	
 		resultModal();
-		answerPanel='<button type="button" class="btn btn-success blink position"   id="selectAnotherMineral">Click here to select next sedimentary rocks</button>'
+		answerPanel='<button type="button" class="btn btn-success blink position"   id="selectAnotherMineral">Click here to select next sedimentary texture</button>'
 			+'<div class="summary"><strong id="correctAns" enable="true">Correct Answer :'+correctAnsCount+' </strong><br>'
 			+'<strong id="wrongAns">Wrong Answer : '+wrongAnsCount+'</strong><br>'
 	  		+'<strong id="notSelected">Skipped Question : '+notSelected+' </strong><br>'
 		  	+'</div>'
 			
-			$("#modalHeading").html("Selected sedimentary rocks : " + tempMasterJson.demo[copyMineralid].textureName);
-		AddResult='<p class="properties"></p>'
-				  +'<p class="properties"><b>Chemical classification :</b> '+tempMasterJson.demo[copyMineralid].chemical_Classification+'</p>'
-				  +'<p class="properties"><b>Colour :</b> '+tempMasterJson.demo[copyMineralid].colour+'</p>'
-				  +'<p class="properties"><b>Streak :</b> '+tempMasterJson.demo[copyMineralid].streak+'</p>'
-				  +'<p class="properties"><b>Luster :</b> '+tempMasterJson.demo[copyMineralid].luster+'</p>'
-				  +'<p class="properties"><b>Mohs hardness :</b> '+tempMasterJson.demo[copyMineralid].mohs_Hardness+'</p>'
-				  +'<p class="properties"><b>Cleavage :</b> '+tempMasterJson.demo[copyMineralid].cleavage+'</p>'
-				  +'<p class="properties"><b>Diaphaneity :</b> '+tempMasterJson.demo[copyMineralid].diaphaneity+'</p>'
-				  +'<p class="properties"><b>Gravity :</b> '+tempMasterJson.demo[copyMineralid].gravity+'</p>'
-				  +'<p class="properties"><b>Chemical composition :</b> '+tempMasterJson.demo[copyMineralid].chemical_Composition+'</p>'
-				  +'<p class="properties"><b>Special properties :</b> '+tempMasterJson.demo[copyMineralid].specialProperties+'</p>'
+			$("#modalHeading").html("Selected sedimentary texture : " + tempMasterJson.demo[copyMineralid].textureName);
+			$("#AddResult").html("<center><strong style='color:green;'>Click on OK button to continue</strong></center><br/>");
 				 
 		
 		if(mineralCount!=maxIndexArr){
@@ -401,7 +391,7 @@ function smtQuestion(){
 				$("#answerPanel").html(answerPanel);
 				$("#selectAnotherMineral").hide();
 //				$("#modalHeading").html("Summary");
-				$("#AddResult").html("<center><strong style='color:green;'>Congratulation!!<br> You have completed the experiment successfully.</strong></center><br/>" + AddResult);				
+				$("#AddResult").html("<center><strong style='color:green;'>Congratulation!!<br> You have completed the experiment successfully.</strong></center><br/>");
 				$("#ModalFooter").html('<button type="button" class="btn btnStyle"  data-dismiss="modal" style="padding: 5px 20px;" >OK</button><button type="button" class="btn btnStyle"  data-dismiss="modal" id="refreshPage" style="padding: 5px 20px;" >Exit</button>');
 			}
 		}
