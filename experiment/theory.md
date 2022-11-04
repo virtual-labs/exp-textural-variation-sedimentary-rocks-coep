@@ -37,7 +37,9 @@ A sediment or sedimentary rock is said to be well-sorted if all clasts are of si
 |Sand|1/16-2mm | Sand |Sandstone |
 |Silt|1/256-1/16mm | Silt |Siltstone |
 |Clay|1<256mm | Clay |Claystone,mudstone and shale |
-Textures are said to be primary, where the detrital grains possess their arrangement that existed after they came to rest in the basin of deposition or after precipitation (in the case of crystallines). Secondary textures are produced due to the alteration in the original arrangements of grains. Grains are rearranged due to the weight of overlying sediments causing compaction during lithification.
+
+<br>Textures are said to be primary, where the detrital grains possess their arrangement that existed after they came to rest in the basin of deposition or after precipitation (in the case of crystallines). Secondary textures are produced due to the alteration in the original arrangements of grains. Grains are rearranged due to the weight of overlying sediments causing compaction during lithification.
+
 ### Textures are controlled by the following factors: 
 -  The nature and type of the source rocks or provenance. It can be igneous, sedimentary, and metamorphic;
 - Texture and composition of pre-existing or source rock; 
@@ -45,11 +47,11 @@ Textures are said to be primary, where the detrital grains possess their arrange
 - Mode, energy and nature of medium and distance of transportation; 
 - Depositional processes; 
 - Diagenesis of sediments; and • Tectonics of depositional sites.
+
 ### Mineralogy: 
 The most common materials in sedimentary rocks: less common sedimentary minerals quartz gypsum feldspar halite clay hematite calcite limonite dolomite rock fragments Small amounts of amphibole, pyroxene, and mica may also be found in some sedimentary rocks
-coarsegrained
+coarsegrained<br>
 ![coarsegrained*************************************************](images/coarsegrained.jpg)
-
 
 |The most Common materials in sedimentary rocks|less common sedimentary minerals|
 |--|--|
@@ -59,7 +61,10 @@ coarsegrained
 | calcite|limonite|
 |dolomite| |
 |rock fragments| |
+
+<br>
 Small amounts of amphibole, pyroxene, and mica may also be found in some sedimentary rocks.
+
 ### Classification of sedimentary rocks:
 A very workable classification of sedimentary rocks is given in the accompanying handout. Brief descriptions of some of the important sedimentary rocks are given below.
 Conglomerate is made of rounded gravel particles in a sand or finer-grained matrix; breccia is simply a conglomerate composed of angular, rather than rounded, particles.
