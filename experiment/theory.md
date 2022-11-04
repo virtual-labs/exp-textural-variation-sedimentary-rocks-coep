@@ -12,9 +12,9 @@ These fine-grained rocks are said to have an aphanitic texture.
  Sedimentary rocks may have clastic (detrital) or non-clastic texture. 
 Non-clastic textures are found chiefly in rocks that have precipitated chemically from water (chemical sedimentary rocks), such as limestone, dolomite and chert. Other non-clastic sedimentary rocks include those formed by organisms (biochemical rocks), and those formed from organic material, such as coal. 
 Rocks formed mainly from shell fragments are technically clastic rocks, but are commonly classed with the non-clastic ones because they too are chemical precipitates - except that organisms did the precipitating. If non-clastic rocks are fine-grained enough, they too can be called aphanitic.
-Clastic sedimentary rocks are subdivided on the basis of grain size. Secondary characteristics used to further distinguish clastic rocks are sorting, grain shape, and grain composition.
-![figures showing primary*************************************************](images/figures showing primary.jpg)
-Grain size:
+Clastic sedimentary rocks are subdivided on the basis of grain size. Secondary characteristics used to further distinguish clastic rocks are sorting, grain shape, and grain composition.<br>
+![figures showing primary*************************************************](images/figures_showing_primary.jpg)
+<br>Grain size:
 Clastic sediments are distinguished on the basis of average grain size.
 gravel-size particles are larger than 2 mm diameter
 sand-size particles range in diameter from 1/16 to 2 mm (they feel like sandpaper)
@@ -37,7 +37,9 @@ A sediment or sedimentary rock is said to be well-sorted if all clasts are of si
 |Sand|1/16-2mm | Sand |Sandstone |
 |Silt|1/256-1/16mm | Silt |Siltstone |
 |Clay|1<256mm | Clay |Claystone,mudstone and shale |
-Textures are said to be primary, where the detrital grains possess their arrangement that existed after they came to rest in the basin of deposition or after precipitation (in the case of crystallines). Secondary textures are produced due to the alteration in the original arrangements of grains. Grains are rearranged due to the weight of overlying sediments causing compaction during lithification.
+
+<br>Textures are said to be primary, where the detrital grains possess their arrangement that existed after they came to rest in the basin of deposition or after precipitation (in the case of crystallines). Secondary textures are produced due to the alteration in the original arrangements of grains. Grains are rearranged due to the weight of overlying sediments causing compaction during lithification.
+
 ### Textures are controlled by the following factors: 
 -  The nature and type of the source rocks or provenance. It can be igneous, sedimentary, and metamorphic;
 - Texture and composition of pre-existing or source rock; 
@@ -45,11 +47,11 @@ Textures are said to be primary, where the detrital grains possess their arrange
 - Mode, energy and nature of medium and distance of transportation; 
 - Depositional processes; 
 - Diagenesis of sediments; and • Tectonics of depositional sites.
+
 ### Mineralogy: 
 The most common materials in sedimentary rocks: less common sedimentary minerals quartz gypsum feldspar halite clay hematite calcite limonite dolomite rock fragments Small amounts of amphibole, pyroxene, and mica may also be found in some sedimentary rocks
-coarsegrained
+coarsegrained<br>
 ![coarsegrained*************************************************](images/coarsegrained.jpg)
-
 
 |The most Common materials in sedimentary rocks|less common sedimentary minerals|
 |--|--|
@@ -59,7 +61,10 @@ coarsegrained
 | calcite|limonite|
 |dolomite| |
 |rock fragments| |
+
+<br>
 Small amounts of amphibole, pyroxene, and mica may also be found in some sedimentary rocks.
+
 ### Classification of sedimentary rocks:
 A very workable classification of sedimentary rocks is given in the accompanying handout. Brief descriptions of some of the important sedimentary rocks are given below.
 Conglomerate is made of rounded gravel particles in a sand or finer-grained matrix; breccia is simply a conglomerate composed of angular, rather than rounded, particles.
@@ -70,7 +75,7 @@ Shale consists of finely laminated (thinly layered) clay-sized particles. If thi
 Limestones consist almost entirely of calcite. Chalk consists of minute (microscopic or sub-microscopic) silt-size
 shells; it has a gritty feel. Coquina is made up almost entirely of large shell fragments. Some limestones are very fine-grained (aphanitic) and are formed of limy mud.
 Chert is a hard, aphanitic, non-clastic rock composed entirely of microcrystalline quartz. Diatomite is a very fine, light-weight chalky white rock formed from the silica shells of diatoms (microscopic one-celled plants). Diatomite has a smooth, powdery feel.
-Coal is formed from heating and compression of peat––vegetative material that accumulates in bogs and swamps.
+Coal is formed from heating and compression of peat–vegetative material that accumulates in bogs and swamps.
 (Strictly speaking, coal is metamorphosed peat; but it is usually grouped with sedimentary rocks.)
 
 ### Structure of Sedimentary Rocks
