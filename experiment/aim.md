@@ -1,1 +1,1 @@
-### Identification of Texture on Igneous Rocks
+### Identification of Texture on Sedimentory Rocks
