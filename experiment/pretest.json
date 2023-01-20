@@ -9,12 +9,7 @@
         "c": "Coal",
         "d": "Dolomite"
       },
-      "explanations": {
-        "a": "Explanation ",
-        "b": "Explanation ",
-        "c": "Explanation :Coal may broadly be defined as metamorphosed sedimentary rocks of carbonaceous character in which the raw material has mostly been supplied by plants of various groups.",
-        "d": "Explanation "
-      },
+      
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
@@ -26,12 +21,7 @@
         "c": "Used as building stone",
         "d": "Used as a source of magnesium"
       },
-      "explanations": {
-        "a": "Explanation :Limestones and dolomites find important applications in many industries and engineering practice. Thus, limestone is a primary source material for manufacture of Portland cement and for a variety of limes.",
-        "b": "Explanation ",
-        "c": "Explanation ",
-        "d": "Explanation "
-      },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
@@ -43,12 +33,7 @@
         "c": "5.5",
         "d": "9"
       },
-      "explanations": {
-        "a": "Explanation ",
-        "b": "Explanation :Lignite is compact and massive in structure with an upper specific gravity of 1.5 and hardness of 2.5 on Mohs’ scale of hardness. Some varieties of lignite may still show to a good extent the traces of original vegetable structure.",
-        "c": "Explanation ",
-        "d": "Explanation "
-      },
+      
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
@@ -60,12 +45,7 @@
         "c": "Bituminous",
         "d": "Anthracite"
       },
-      "explanations": {
-        "a": "Explanation ",
-        "b": "Explanation ",
-        "c": "Explanation ",
-        "d": "Explanation :Anthracite is considered the highest grade coal with fixed carbon ranging between 92-98 percent. It has highest calorific value in coals and burns without any smoke, as the volume matter is negligible"
-      },
+      
       "correctAnswer": "d",
       "difficulty": "beginner"
     },
@@ -77,12 +57,7 @@
         "c": "Metamorphic rocks",
         "d": "Ultra-basic igneous rocks"
       },
-      "explanations": {
-        "a": "Explanation ",
-        "b": "Explanation :Sedimentary rocks cover a great part of the crust of the earth; they make up more than 75 percent of the surface area of the land mass. It is with these types of rocks that an engineer has to deal with in majority of cases. It is therefore, essential for a civil engineer to know as much as is possible about the salient features of these rocks",
-        "c": "Explanation ",
-        "d": "Explanation "
-      },
+      
       "correctAnswer": "b",
       "difficulty": "beginner"
     }
