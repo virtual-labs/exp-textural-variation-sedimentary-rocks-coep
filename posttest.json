@@ -1,0 +1,63 @@
+{
+	"version": 2.0,
+	"questions": [{
+			"question": "The layered arrangement in sedimentary rocks is called?",
+			"answers": {
+				"a": "Mud cracks",
+				"b": "Stratification",
+				"c": "Rain prints",
+				"d": "Ripple marks"
+			},
+			
+			"correctAnswer": "b",
+			"difficulty": "beginner"
+		},
+		{
+			"question": "The structure most prevalent to clastic rocks is",
+			"answers": {
+				"a": "Nodular structure",
+				"b": "Geode structure",
+				"c": "Concretionary structure",
+				"d": "Lamination"
+			},
+			
+			"correctAnswer": "d",
+			"difficulty": "beginner"
+		},
+		{
+			"question": "Lamination is structure formed in which type of sedimentary rocks?",
+			"answers": {
+				"a": "Fine grained",
+				"b": "Medium grained",
+				"c": "Coarse grained",
+				"d": "Nothing in particular"
+			},
+			
+			"correctAnswer": "a",
+			"difficulty": "beginner"
+		},
+		{
+			"question": "The process not contributing to clastic rocks is____",
+			"answers": {
+				"a": "Weathering",
+				"b": "Oxidation",
+				"c": "Erosion",
+				"d": "Deposition"
+			},
+			
+			"correctAnswer": "b",
+			"difficulty": "beginner"
+		}, {
+			"question": "What is the size required for a particle to be called gravel?",
+			"answers": {
+				"a": "Greater than 1 mm",
+				"b": "Lesser 1 mm",
+				"c": "Greater than 2 mm",
+				"d": "Lesser than 1 mm"
+			},
+			
+			"correctAnswer": "c",
+			"difficulty": "beginner"
+		}
+	]
+}

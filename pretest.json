@@ -1,0 +1,65 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "What is a metamorphosed sedimentary rocks?",
+      "answers": {
+        "a": "Shale",
+        "b": "Limestone",
+        "c": "Coal",
+        "d": "Dolomite"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The major use of limestone is______",
+      "answers": {
+        "a": "Primary source material for manufacture of Portland cement",
+        "b": "Used in metallurgical industries as flux",
+        "c": "Used as building stone",
+        "d": "Used as a source of magnesium"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+	{
+      "question": "What is the hardness of the lignite grade of coal?",
+      "answers": {
+        "a": "0.5",
+        "b": "2.5",
+        "c": "5.5",
+        "d": "9"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+	{
+      "question": "The highest grade of coal is_____",
+      "answers": {
+        "a": "Peat",
+        "b": "Lignite",
+        "c": "Bituminous",
+        "d": "Anthracite"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+	{
+      "question": "A civil engineer has to deal with which rock in the majority of cases?",
+      "answers": {
+        "a": "Igneous rocks",
+        "b": "Sedimentary rocks",
+        "c": "Metamorphic rocks",
+        "d": "Ultra-basic igneous rocks"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
