@@ -8,12 +8,7 @@
 				"c": "Rain prints",
 				"d": "Ripple marks"
 			},
-			"explanations": {
-				"a": "Explanation ",
-				"b": "Explanation : By stratification is understood a layered arrangement in sedimentary rock. This may be developed very prominently and can be seen from a distance of miles or in other cases may have to be ascertained after close examination of the rock",
-				"c": "Explanation ",
-				"d": "Explanation "
-			},
+			
 			"correctAnswer": "b",
 			"difficulty": "beginner"
 		},
@@ -25,12 +20,7 @@
 				"c": "Concretionary structure",
 				"d": "Lamination"
 			},
-			"explanations": {
-				"a": "Explanation ",
-				"b": "Explanation ",
-				"c": "Explanation ",
-				"d": "Explanation : The most prevalent structures of a clastic group of sedimentary rocks are the ones belonging to mechanical structure which are, stratification, lamination, cross beddings, rain prints etc"
-			},
+			
 			"correctAnswer": "d",
 			"difficulty": "beginner"
 		},
@@ -42,12 +32,7 @@
 				"c": "Coarse grained",
 				"d": "Nothing in particular"
 			},
-			"explanations": {
-				"a": "Explanation :Lamination is a characteristic structure of fine-grained sedimentary rocks like clays and shales.",
-				"b": "Explanation ",
-				"c": "Explanation ",
-				"d": "Explanation "
-			},
+			
 			"correctAnswer": "a",
 			"difficulty": "beginner"
 		},
@@ -59,12 +44,7 @@
 				"c": "Erosion",
 				"d": "Deposition"
 			},
-			"explanations": {
-				"a": "Explanation ",
-				"b": "Explanation :The mechanically formed sedimentary rocks undergo processes like- weathering, erosion, transport, deposition and diagenesis. Oxidation is considered under to be a non-clastic cause.",
-				"c": "Explanation ",
-				"d": "Explanation "
-			},
+			
 			"correctAnswer": "b",
 			"difficulty": "beginner"
 		}, {
@@ -75,12 +55,7 @@
 				"c": "Greater than 2 mm",
 				"d": "Lesser than 1 mm"
 			},
-			"explanations": {
-				"a": "Explanation ",
-				"b": "Explanation ",
-				"c": "Explanation :All sediments and clastic fragments of rocks above the size of 2 mm irrespective of their composition and shape are broadly termed as gravels.",
-				"d": "Explanation "
-			},
+			
 			"correctAnswer": "c",
 			"difficulty": "beginner"
 		}
